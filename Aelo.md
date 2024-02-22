@@ -1,6 +1,7 @@
 Aleo完成2亿美元B轮融资，SoftBank和Kora Management领投，a16z、Tiger Global、Samsung Ventures等参投。
 
-https://mmbiz.qpic.cn/mmbiz_png/TKxAtfxrOFP7oytwE2ZpNqNofELUNReSA86M4DOYzWzIicM4ux3Lh8Rh0qNzbrXRNBYRVdBVZib0OU9zr7lcrP3A/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1
+![image](https://github.com/Jermyo/coin/assets/23717512/2ce568ce-9a09-4143-b3b9-6ff654398c5a)
+
 
 Aleo空投已经确认，有两种方式去获得空投，一是：0撸交互。二就是搭建节点，这个节点的话是最重要的，之前的SOL,TIA,MINA搭建节点的都赚的不少，所以节点有可能会占据大部分空投份额。目前Aleo有几百个节点运行，提前布局有可能你就是早期参与者。
 
