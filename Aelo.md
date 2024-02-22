@@ -15,13 +15,15 @@ Aleo空投已经确认，有两种方式去获得空投，一是：0撸交互。
 
 访问：https://faucetgreenlist.snarkos.net/，复制钱包地址，将地址粘贴到指定字段中以添加到绿名单中
 
-图片
+![image](https://github.com/Jermyo/coin/assets/23717512/e916ea8a-1f96-49c5-bdc0-216bcf995ca4)
+
 
 3. Faucet
 
 访问：https://faucet.aleo.org/，复制钱包地址，使用手机粘贴地址和申请ALEO代币，访问：https://sepoliafaucet.com/，使用邮件登录。粘贴钱包地址和申请ETH。
 
-图片
+![image](https://github.com/Jermyo/coin/assets/23717512/4b0abd41-3d32-4645-ad11-6437a8bf6efd)
+
 
 4. New faucet
 
@@ -35,7 +37,8 @@ Aleo空投已经确认，有两种方式去获得空投，一是：0撸交互。
 
 访问https://app.alphaswap.pro/faucet，连接Aleo钱包，领取ALEO积分，领取USDT，领取WETH。
 
-图片
+![image](https://github.com/Jermyo/coin/assets/23717512/c0570ace-6a14-418a-8380-c2089d60a434)
+
 
 7.AleoSwap
 
@@ -45,19 +48,22 @@ Aleo空投已经确认，有两种方式去获得空投，一是：0撸交互。
 
 访问：https://aleo.store/collection/create，连接Aleo钱包，添加图片，填写必填项，继续创建NFT。
 
-图片
+![image](https://github.com/Jermyo/coin/assets/23717512/c619c3b4-68ac-49a9-8345-80d7592e0282)
+
 
 9. Aleo Domain
 
 访问：https://testnet3.aleonames.id/，连接Aleo钱包。用小写字母输入域名，创建域名
 
-图片
+![image](https://github.com/Jermyo/coin/assets/23717512/384f0b3b-8789-4718-99a2-234fd2fa4932)
+
 
 10. Aleo Discord
 
 访问：https://t.co/XF90WdwMb5，进入Discord，积极主动地与他人交往。在社区内获得相关角色
 
-图片
+![image](https://github.com/Jermyo/coin/assets/23717512/efe46cd9-07c8-4d23-92ba-4c0138ccfaa6)
+
 
 二：搭建节点，详细教程
 
@@ -65,53 +71,64 @@ Aleo空投已经确认，有两种方式去获得空投，一是：0撸交互。
 
 2：打开以后注册
 
-图片
+![image](https://github.com/Jermyo/coin/assets/23717512/7860e1e2-af18-49ce-8df5-3ba7718b878f)
+
 
 3：注册完成点击Products
 
-图片
+![image](https://github.com/Jermyo/coin/assets/23717512/caf4b9d6-9fb3-4ec0-a6d6-020b712e4cdb)
+
 
 4：点击部署deploy now
 
-图片
+![image](https://github.com/Jermyo/coin/assets/23717512/39171183-51a5-4df2-af71-e5f3d84acd45)
+
 
 5：Choose Sever：选择Cloud Compute
 
 CPU & Storage Technology：选择AMD
 
-图片
+![image](https://github.com/Jermyo/coin/assets/23717512/3d9ea542-ed71-46ec-bba4-16d7bbf81ef1)
+
 
 6：Sever Location：选择美国一个地方就行
 
-图片
+![image](https://github.com/Jermyo/coin/assets/23717512/0cf17c88-bfa3-4827-a87f-ea2c838c22ed)
+
 
 7：Sever Image：选择ubuntu的20系统
 
-图片
+![image](https://github.com/Jermyo/coin/assets/23717512/3f0f0942-c8df-4f7a-8386-a6419ab14fff)
+
 
 8：Sever Size选择：96美金一个月的
 
 记得关闭备份功能，如下图，点一下on变成off
 
-图片
+![image](https://github.com/Jermyo/coin/assets/23717512/be3d70b2-4891-4ce5-b5ef-e36347d884d0)
+
 
 9：然后点击Deploy Now，付款方式选择最后一个，用支付宝扫码支付10美金。
 
 成功以后，稍等几分钟再点击products，等看到你的服务器显示running时候就可以打开服务器了。
 
-图片
+![image](https://github.com/Jermyo/coin/assets/23717512/f165fe5c-204c-4dc5-9011-a1e789ac8f1d)
+
 
 10：然后点击三个点，打开服务信息
 
-图片
+![image](https://github.com/Jermyo/coin/assets/23717512/1f7c4391-1589-45e8-a836-8506af2f8f83)
+
 
 11：点击进入控制台
 
-图片
+![image](https://github.com/Jermyo/coin/assets/23717512/fd8a3ce0-f09f-4f02-a4e6-b7839fc3c544)
+
 
 12：进入控制台后，输入root用户名登陆，密码在网页里点击复制。然后登陆。
 
-图片
+![image](https://github.com/Jermyo/coin/assets/23717512/680ab35d-1b4c-436d-8b20-ca0cd021aa61)
+
 
 13：登陆成功后输入以下命令：apt install curl
 
